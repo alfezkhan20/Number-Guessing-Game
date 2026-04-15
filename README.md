@@ -19,7 +19,7 @@ Random Module
 ##▶️ How to Run
 
 Clone the repository:
-git clone 
+git clone https://github.com/alfezkhan20/Number-Guessing-Game.git
 Navigate to the project folder:
 cd Number-Guessing-Game
 Run the program:
